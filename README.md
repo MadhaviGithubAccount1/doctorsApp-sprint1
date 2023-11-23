@@ -1,2 +1,2 @@
-Welcome to doctorsa application
+Welcome to doctors application
 # doctorsApp-sprint1
